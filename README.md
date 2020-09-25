@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a software developer. my mainly focus on Go and Python for telecommunication platforms. I love Linux, free-software philosophy and new technologies.
+My main programming languages are:
+
+  - Golang
+  - Python
+  - C
+
+[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=faridgh1991&count_private=true&theme=onedark)](https://github.com/faridgh1991)
 <!--
 **faridgh1991/faridgh1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
