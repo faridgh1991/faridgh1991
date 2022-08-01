@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/bed8e284-c0bf-4bfe-9848-b22f216e2ee4.svg)](https://wakatime.com/@bed8e284-c0bf-4bfe-9848-b22f216e2ee4)
+
 I'm a software developer. my mainly focus on Go and Python for telecommunication platforms. I love Linux, free-software philosophy and new technologies.
 My main programming languages are:
 
